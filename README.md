@@ -1,3 +1,8 @@
-# JS_VUE_TodoAPP_Dummy
+# vue_todolist
 
-This Project is currently still in progress, therefore no full Readme or Documentation exists yet. You find another readme in the folder vue_todolist.
+## Basic Information:
+Just following along the Tutorial of Traversy Media here:
+https://www.youtube.com/watch?v=Wy9q22isx3U&t=556s
+
+## Live Demo:
+https://edma.at/Vue_TodoAPP/#/
